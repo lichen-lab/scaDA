@@ -27,7 +27,7 @@ You can install scaDA from [GitHub](https://github.com/) with:
 
 ``` r
 # install.packages("devtools")
-devtools::install_github("fzhaouf/scaDA")
+devtools::install_github("lichen-lab/scaDA")
 ```
 
 <!-- or from CRAN: -->
